@@ -5,7 +5,7 @@ the company has asked a solutions architect to design a solution that leverages 
 the application must be  deployed to a staging environment for testing and verification before being deployed to  production. 
 any new deployment must be rolled back in 5 minutes if errors are discovered after a deployment.which aws service and deployment pattern should the solutions  architect use to meet these requirements? 
 
-A.use aws elastic beanstalk and deploy the application using a rolling update deployment  strategy. 
+A.use aws elastic beanstalk and deploy the application using a rolling update deployment  strategy. <br>
 B.use aws codepipeline and deploy the application using a rolling update deployment  strategy. 
 C.use aws codebuild and deploy the application using a canary deployment strategy. 
 D.use aws opsworks and deploy the application using a blue/green deployment strategy
